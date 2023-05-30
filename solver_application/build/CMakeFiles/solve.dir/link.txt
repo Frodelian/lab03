@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/solve.dir/equation.cpp.o -o solve  -lformatter -lsolver 

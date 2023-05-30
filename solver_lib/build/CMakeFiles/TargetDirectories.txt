@@ -1,0 +1,3 @@
+/home/frodelian/Documents/lab03-1-master/solver_lib/build/CMakeFiles/solver.dir
+/home/frodelian/Documents/lab03-1-master/solver_lib/build/CMakeFiles/edit_cache.dir
+/home/frodelian/Documents/lab03-1-master/solver_lib/build/CMakeFiles/rebuild_cache.dir

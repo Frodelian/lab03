@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/solve.dir/equation.cpp.o -o solve  ../formatter_lib/libformatter.a ../solver_lib/libsolver.a 
